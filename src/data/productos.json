@@ -1,0 +1,98 @@
+[
+  {
+    "id": 1,
+    "nombre": "The Dark Side of the Moon - Pink Floyd",
+    "precio": 25.99,
+    "img": "https://images.unsplash.com/photo-1519677584237-752f8853252e?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "cantidad": 5,
+    "desc": "Uno de los discos más icónicos de Pink Floyd, lanzado en 1973, conocido por su innovadora producción y sonido psicodélico."
+  },
+  {
+    "id": 2,
+    "nombre": "Abbey Road - The Beatles",
+    "precio": 28.99,
+    "img": "https://images.unsplash.com/photo-1519677584237-752f8853252e?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "cantidad": 3,
+    "desc": "El legendario álbum de The Beatles lanzado en 1969, famoso por su portada y las innovadoras composiciones de la banda."
+  },
+  {
+    "id": 3,
+    "nombre": "Back to Black - Amy Winehouse",
+    "precio": 21.50,
+    "img": "https://images.unsplash.com/photo-1519677584237-752f8853252e?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "cantidad": 7,
+    "desc": "El segundo álbum de estudio de Amy Winehouse, lanzado en 2006, que incluye el exitoso sencillo 'Rehab'."
+  },
+  {
+    "id": 4,
+    "nombre": "Rumours - Fleetwood Mac",
+    "precio": 24.75,
+    "img": "https://images.unsplash.com/photo-1519677584237-752f8853252e?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "cantidad": 6,
+    "desc": "Lanzado en 1977, este álbum de Fleetwood Mac es uno de los más vendidos de todos los tiempos, con clásicos como 'Go Your Own Way' y 'Dreams'."
+  },
+  {
+    "id": 5,
+    "nombre": "Thriller - Michael Jackson",
+    "precio": 30.00,
+    "img": "https://images.unsplash.com/photo-1519677584237-752f8853252e?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "cantidad": 4,
+    "desc": "El álbum más vendido de todos los tiempos, lanzado en 1982, con éxitos como 'Billie Jean' y 'Thriller'."
+  },
+  {
+    "id": 6,
+    "nombre": "1989 - Taylor Swift",
+    "precio": 19.99,
+    "img": "https://images.unsplash.com/photo-1519677584237-752f8853252e?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "cantidad": 7,
+    "desc": "El quinto álbum de estudio de Taylor Swift, lanzado en 2014, que marcó su transición al pop con éxitos como 'Shake It Off'."
+  },
+  {
+    "id": 7,
+    "nombre": "Fearless (Taylor's Version) - Taylor Swift",
+    "precio": 22.50,
+    "img": "https://images.unsplash.com/photo-1519677584237-752f8853252e?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "cantidad": 8,
+    "desc": "La regrabación del exitoso álbum 'Fearless' de 2008, lanzada en 2021 como parte de la reivindicación de Taylor sobre su catálogo musical."
+  },
+  {
+    "id": 8,
+    "nombre": "Red (Taylor's Version) - Taylor Swift",
+    "precio": 26.99,
+    "img": "https://images.unsplash.com/photo-1519677584237-752f8853252e?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "cantidad": 5,
+    "desc": "La regrabación del icónico álbum 'Red', lanzada en 2021, con nuevas versiones de sus éxitos, incluyendo 'All Too Well'."
+  },
+  {
+    "id": 9,
+    "nombre": "Lover - Taylor Swift",
+    "precio": 24.50,
+    "img": "https://images.unsplash.com/photo-1519677584237-752f8853252e?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "cantidad": 6,
+    "desc": "Lanzado en 2019, 'Lover' es un álbum lleno de color y emociones, que incluye sencillos como 'You Need to Calm Down' y 'Lover'."
+  },
+  {
+    "id": 10,
+    "nombre": "Folklore - Taylor Swift",
+    "precio": 27.99,
+    "img": "https://images.unsplash.com/photo-1519677584237-752f8853252e?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "cantidad": 4,
+    "desc": "Un álbum íntimo y folk lanzado en 2020, con un enfoque más narrativo y canciones como 'Cardigan' y 'Exile'."
+  },
+  {
+    "id": 11,
+    "nombre": "Evermore - Taylor Swift",
+    "precio": 28.50,
+    "img": "https://images.unsplash.com/photo-1519677584237-752f8853252e?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "cantidad": 5,
+    "desc": "La continuación de 'Folklore', lanzado también en 2020, explorando una mezcla de géneros con canciones como 'Willow' y 'Champagne Problems'."
+  },
+  {
+    "id": 12,
+    "nombre": "Midnights - Taylor Swift",
+    "precio": 23.99,
+    "img": "https://images.unsplash.com/photo-1519677584237-752f8853252e?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "cantidad": 9,
+    "desc": "Lanzado en 2022, 'Midnights' es un álbum conceptual que refleja noches de insomnio y reflexiones profundas, con éxitos como 'Anti-Hero'."
+  }
+]
