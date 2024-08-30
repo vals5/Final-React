@@ -17,6 +17,7 @@
 
 html {
   scroll-behavior: smooth;
+  background-color: lightgray;
 }
 
 /* NAV BAR */
@@ -71,6 +72,13 @@ a {
   margin-top: 2rem;
 }
 
+/* CARGANDO PRODUCTOS */
+
+.cargando {
+  padding-top: 5rem;
+  font-size: 25px;
+}
+
 /* PRODUCTOS  */
 
 .productos {
@@ -89,7 +97,7 @@ a {
 
 .producto > div {
   padding: 1rem;
-  background-color: var(--clr-main-light);
+  background-color: var(--light);
   display: flex;
   flex-direction: column;
   gap: 0.5rem;
@@ -112,7 +120,7 @@ a {
 }
 
 .producto .ver-mas:hover {
-  background-color: var(--light);
+  background-color: white;
 }
 
 .producto-detalle {
@@ -141,6 +149,8 @@ a {
   margin-top: 2rem;
   font-weight: 600;
 }
+
+/* CARRITO */
 
 .item-count {
   display: flex;
@@ -182,4 +192,26 @@ a {
   height: auto;
   margin-top: 1rem;
   padding: 1rem;
+}
+
+/* FORMULARIO */
+
+.formulario {
+  display: flex;
+  flex-direction: column;
+  gap: .5rem;
+  align-items: flex-start;
+}
+
+.formulario input {
+  padding: .5rem;
+  width: 18rem;
+  border-radius: .5rem;
+  border: 2px solid black;
+}
+
+.formulario input:focus {
+  outline: 0;
+  border: 2px solid var(--light);
+  outline: 2px solid var(--dark);
 }
